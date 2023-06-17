@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nod
 - 👀 I’m interested in languages and coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anithing, lol
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything, lol
 - 📫 How to reach me:
 Email: Farnooddibavar@gmail.com/ Instagram: f_farnoood/ Discord: wantedcookie #0565
 
